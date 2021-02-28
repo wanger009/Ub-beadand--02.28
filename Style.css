@@ -1,0 +1,137 @@
+body{
+    background-color: #F8F2DA;
+}
+a{
+    color: grey;
+
+}
+a:hover{
+    color: hotpink;
+}
+a:visited{
+    color: skyblue;
+}
+a:active{
+    color: gray;
+}
+table{
+    text-align: center;
+    font-size: x-large;
+    margin-left: 300px;
+    margin-top: 50px;
+    border: solid 3px grey;
+    box-shadow: 10px 2px 70px  grey;
+    width: 1000px;
+    
+}
+.a1{
+    margin-left: 300px;
+    margin-top: 50px;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+.a2{
+    float: left;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.kep1{
+    border: solid gray 5px ;
+    box-shadow: 10px 2px 20px  grey;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.kep2{
+    border: solid gray 5px ;
+    box-shadow: 10px 2px 20px  grey;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.kep3{
+    border: solid gray 5px ;
+    box-shadow: 10px 2px 20px  grey;
+    margin-left: 50px;
+}
+.footer{
+    float: right;
+}
+.a3{
+    margin-left: 670px;
+    margin-top: 50px;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+}
+.PS{
+    margin-top: 50px;
+    font-family: "RockBiter Italic";
+    
+    
+}    
+.ps5{
+    width: 500px;
+    float: right;
+    margin-right: 10px;
+    
+}
+.pssz{
+    font-size: 25px;
+    margin-top: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.Xbox{
+    
+    margin-top: 10px;
+}
+.PCP{
+    width: 300px;
+    float: right;
+    margin-right: 10px;
+    font-family: "RockBiter Italic";
+    border: solid gray 5px ;
+    box-shadow: 10px 2px 20px  grey;
+    margin-left: 50px;
+   
+}
+@font-face {
+    font-family: 'RockBiter Italic';
+    src: url('RockBiter Italic.ttf');
+}
+.a4{
+    margin-top: 50px;
+    font-family: "RockBiter Italic";
+}
+.a5{
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.a6{
+    font-family: monospace;
+}
+.a7{
+    width: 600px;
+    border: solid gray 5px ;
+    box-shadow: 10px 2px 20px  grey;
+    margin-left: 50px;
+}
+.Vidi{
+    width: 700px;
+    float: right;
+    margin-top: 300px;
+    margin-right: 200px;
+}
+.a8{
+margin-left: 600px;
+text-decoration: underline;
+text-decoration: wavy;
+font-family: monospace;
+}
+.a9{
+    width: 500px;
+    margin-left: 150px;
+    border: solid gray 5px ;
+    box-shadow: 10px 2px 600px  grey;
+    margin-left: 50px;
+}
